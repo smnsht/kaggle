@@ -208,3 +208,6 @@ __marimo__/
 
 # Word2Vec model files
 *.model
+
+# results
+*.result.csv
